@@ -1,5 +1,5 @@
 # **Binary Calculator**
 
-### Screenshot
+
 
 
